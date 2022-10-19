@@ -1,0 +1,12 @@
+
+i
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Û€Ä8İ«ô‘›/
+U
+java:S1118":Add a private constructor to hide the implicit public one.(âÛ¬íÿÿÿÿÿ
+Q
+java:S6212"/Declare this local variable with "var" instead.(›Á»’ıÿÿÿÿ8Œâô‘›/
+L
+java:S6212"/Declare this local variable with "var" instead.(Û€Ä8ë«ô‘›/
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(‘¢œ
+Q	java:S125#"<This block of commented-out lines of code should be removed.(½‘Ñ³
+X	java:S125."<This block of commented-out lines of code should be removed.(½‘Ñ³8¼Ùõ‘›/

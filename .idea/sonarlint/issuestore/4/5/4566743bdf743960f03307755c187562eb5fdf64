@@ -1,0 +1,10 @@
+
+Q
+java:S1128";Remove this unused import 'org.hibernate.mapping.Property'.(åŽ‘ž
+n
+java:S3008"XRename this field "_propertyUtil" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¼ð©
+l
+java:S3008"VRename this field "_properties" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðâ½È
+S	java:S106""9Replace this use of System.out or System.err by a logger.(”…äŒÿÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(—Ôª´ùÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(ÿ¾á…

@@ -1,0 +1,62 @@
+
+:
+java:S2386"Make this member "protected".(…Åıï8óâËÒí/
+?
+java:S2386"Make this member "protected".(¨éî’úÿÿÿÿ8øâËÒí/
+:
+java:S2386"Make this member "protected".(±ÃéË8–ûµÒí/
+:
+java:S2386"Make this member "protected".(İÒ¦û8šûµÒí/
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(—‚›Ğÿÿÿÿÿ8ÎüµÒí/
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(Òûùèşÿÿÿÿ8ÏüµÒí/
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ÊºÇã8ÒüµÒí/
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(ÊºÇã8ÖüµÒí/
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(…ŞôÌúÿÿÿÿ8çüµÒí/
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(© ´8êüµÒí/
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(Ø±É8îüµÒí/
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(‰’•¿ûÿÿÿÿ8‚ıµÒí/
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(ÿ½ä´8„ıµÒí/
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(Œ¼Ş‰8ÌıµÒí/
+X	java:S125a"<This block of commented-out lines of code should be removed.(•ô°€8ĞıµÒí/
+]	java:S125c"<This block of commented-out lines of code should be removed.(™ñ¼øÿÿÿÿ8ÑıµÒí/
+X	java:S125w"<This block of commented-out lines of code should be removed.(ÚôÄû8åıµÒí/
+[	java:S106€"9Replace this use of System.out or System.err by a logger.(ù¦ñªüÿÿÿÿ8êıµÒí/
+^	java:S125‚"<This block of commented-out lines of code should be removed.(‹ö—ûÿÿÿÿ8ïıµÒí/
+Y	java:S125†"<This block of commented-out lines of code should be removed.(‡ÿã³8ûıµÒí/
+d
+java:S3457³"AFormat specifiers should be used instead of string concatenation.(¿¤Åƒùÿÿÿÿ8œşµÒí/
+Y	java:S125Û"<This block of commented-out lines of code should be removed.(ßã«æ8ÅşµÒí/
+[	java:S106í"9Replace this use of System.out or System.err by a logger.(‰’•¿ûÿÿÿÿ8ÏşµÒí/
+V	java:S106î"9Replace this use of System.out or System.err by a logger.(ŒÜ¼¶8ÑşµÒí/
+d
+java:S3457ø"AFormat specifiers should be used instead of string concatenation.(œ²¸úşÿÿÿÿ8ØşµÒí/
+[	java:S106"9Replace this use of System.out or System.err by a logger.(‰’•¿ûÿÿÿÿ8ãşµÒí/
+[	java:S106"9Replace this use of System.out or System.err by a logger.(û¥¶Íûÿÿÿÿ8äşµÒí/
+_
+java:S3457˜"AFormat specifiers should be used instead of string concatenation.(û¤ò8ìşµÒí/
+y
+java:S1192?"WDefine a constant instead of duplicating this literal "Present Date and Time " 3 times.(¶†¨Áÿÿÿÿÿ8ƒÿµÒí/
+·
+java:S1192:"™Define a constant instead of duplicating this literal "========================================================================================" 6 times.(ÓÒŒĞ8„ÿµÒí/
+g
+java:S1192<"JDefine a constant instead of duplicating this literal "%-52s |%n" 3 times.(ÿ½ä´8…ÿµÒí/
+·
+java:S1192A"™Define a constant instead of duplicating this literal "----------------------------------------------------------------------------------------" 6 times.(›¶ê8‡ÿµÒí/
+k
+java:S1192;"IDefine a constant instead of duplicating this literal "| %-30s " 3 times.(‰’•¿ûÿÿÿÿ8‡ÿµÒí/
+}
+java:S1104"`Make stripTextAtBeginList a static final constant or non-public and provide accessors if needed.(İÒ¦û8•ÿµÒí/
+W
+java:S1444":Make this "public static stripTextAtBeginList" field final(İÒ¦û8˜ÿµÒí/
+B
+java:S2629¬"$Invoke method(s) only conditionally.(ĞôÎ8£ÿµÒí/
+B
+java:S2629­"$Invoke method(s) only conditionally.(ø­ı“8¤ÿµÒí/
+Z
+java:S2629³"7Use the built-in formatting to construct this argument.(¿¤Åƒùÿÿÿÿ8¥ÿµÒí/
+B
+java:S2629¶"$Invoke method(s) only conditionally.(ÿ›ÏÀ8¦ÿµÒí/
+
+java:S2629ø"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(œ²¸úşÿÿÿÿ8§ÿµÒí/
+z
+java:S2629˜"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(û¤ò8¨ÿµÒí/
