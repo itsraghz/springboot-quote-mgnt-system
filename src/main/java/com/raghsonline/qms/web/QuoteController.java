@@ -1,9 +1,7 @@
 package com.raghsonline.qms.web;
 
-import com.raghsonline.qms.model.Quote;
 import com.raghsonline.qms.service.QuoteService;
 import com.raghsonline.qms.util.QuoteUtil;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
