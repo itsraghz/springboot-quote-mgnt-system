@@ -15,7 +15,7 @@
     <name>quote-mgmt-system</name>
     <description>Demo project for Spring Boot</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>17</java.version>
     </properties>
     <dependencies>
         <dependency>
@@ -46,6 +46,7 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <optional>true</optional>
+            <version>1.18.30</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -55,7 +56,7 @@
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-parent</artifactId>
-            <version>1.2.3</version>
+            <version>1.4.7</version>
         </dependency>
     </dependencies>
 

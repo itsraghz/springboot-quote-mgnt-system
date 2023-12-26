@@ -371,7 +371,7 @@
 * Be careful on what you choose to tolerate, as you are teaching people how to treat you! #Advice #Tolerance #Challenges
 * Your heartbeat changes with the music you listen to. #Facts
 * “Accept who you are. Unless you’re a serial killer.”🤣 — Ellen DeGeneres  #funny
-* You can have 10,000 explanations for failure, but just one explanation for success. that is; you never gave up. #Success #Motiviation #Determination
+* You can have 10,000 explanations for failure, but just one explanation for success. that is; you never gave up. #Success #Motivation #Determination
 * If your eyes are positive, you would love the world. But if your tongue is positive, the world will love you! #attitude #advice #positivity
 * A beautiful face is an attraction, a beautiful heart is an inspiration. #Thoughts #Motivation
 * Surround yourself with the people who bring out the best in you, not the stress! #advice #people #relationship
@@ -702,7 +702,7 @@
 * If you want to fly, give up everything that weights you down. #Advice #Motivation #Success
 * Accept people as they are, but place them where they belong. #Life #People #Advice
 * Remember, you don't need to speak a lot to say a lot. #Advice #Challenges #Self
-* Sometimes you have to disconnect to reconnect. #Self #Motivaiton #Break #Challenges
+* Sometimes you have to disconnect to reconnect. #Self #Motivation #Break #Challenges
 * Sit alone, and you will find answers to all your problems. #Problems #Advise
 * Focus on *Yourself* until the focus is *on* you! #Focus #Success #Motivation
 * Nobody watches you harder than the people who don't like you. Give them a good show!😇 #Success #Motivation #Life
@@ -791,50 +791,108 @@
 * We can’t always choose our circumstances in life , but we can choose the lens in which we see the world around us. Choose optimism, hope, happiness, positivity. #Life #circumstances #Choice
 * Sometimes the worst enemy is your own memory. Let it go! #Peace #Memory #Life #Advice
 * Words can be doubted, actions can be questioned but the patterns will always be trusted! #Advice #Motivation
+* “Most of us don’t need a psychiatric therapist as much as a friend to be silly with.” 🤣 — Robert Brault #Motivation #Friendship #Life #funny
+* The shortest answer to the solution is - "Do it!" #Motivation #Success
+* "Don't try to understand everything, because sometimes it is not meant to be understood, but to be accepted." #Life #Challenges #Reality
+* *Micro* changes in life can bring a *Macro* transformation. #Change #Motivation #Successs
+* "A poor mind drowns in excuses. A rich mind swims in solutions." #Motivation #Success
+* A seed grows with no sound but a tree falls with huge noise. Destruction has noise, but creation is quiet. This is the power of silence. Grow silently. #Silence #Success #Motivation
+* Being wanted feeds the ego. Being valued feeds the soul. #Value #Ego
+* “When your mother asks, ‘Do you want a piece of advice?’ it is a mere formality. It doesn’t matter if you answer yes or no. You’re going to get it anyway.” 🤣 — Erma Bombeck #funny
+* Train yourself to stop waiting for the right time! #Motivation #Self #Success
+* Dont' use your energy to worry, instead use it to believe! #Motivation #Optimism #Success
+* The beauty of life is, while we can’t undo what is done, but we can see it, understand it, learn from it and change. #Life #Experience
+* You have two choices, to control your mind or to let your mind control you. #Motivation #Challenges
+* Understand people by their actions and you'll never be fooled by their Words. #People #Challenges
+* It's not how we make mistakes, but how we correct them that defines us. #Motivation #Mistakes
+* “Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.” 🤣 ― Albert Einstein #funny
+* Leaders who don't listen will eventually be surrounded by the people who have nothing to say. #Leadership #Motivation #People #Success
+* Forget all the reasons it won’t work and believe the one reason that it will. #Motivation #Success
+* Never assume that loud is the strongest and quiet is the weakest; it's often the other way around. #Motivation #Life
+* Never apologize for the changes you made in order to heal. #Life #Self #Motivation
+* In an attempt to gel with the world, do NOT lose your individuality. You were born with specific traits and strengths. Get inspired by others but always maintain your uniqueness! #Motivation #Uniqueness #Advice
+* Thought is a past tense of thinking! What we are thinking today decides our thoughts tomorrow! #Thoughts #Motivation #Today
+* Better to wait, than forcing the things to happen. #Advice #Waiting
+* "Don't try to understand everything, because sometimes it is not meant to be understood, but to be accepted." #Reality #Optimism
+* You cannot change the people around you, but you can change the people you chose to be around. #Life #People #Motivation
+* If you don't like something, change it. If you can't change it, change your attitude. #Attitude #Reality #Success
+* Some people come in your life as blessings, some people in your life as lesson. #People #Relationship #Life
+* Innocent people are not stupid, they just think that everyone has a good heart! #People #Innocence
+* In the end, it is important to know when to stop arguing with people, smile and walk away! #Life #Challenges #People
+* “You only live once, but if you do it right, once is enough.” 😂 ― Mae West #funny #life
+* Take time to plan but don’t take too long to action. Success belongs to those who make a move. #Success #Action #Motivation
+* Stop doing what is easy. Start doing what is right. #Motivation #Success
+* Decide what you want in life. Make a plan and work on that plan EVERY DAY!!!! 💪🏾 Don’t give up 🙏🏽 #Motivation #Success
+* Nothing binds you except your thoughts, Nothing limits you except your fear & Nothing controls you except your beliefs. EVERYTHING is within YOU. #Belief #Motivation #Success
+* The hardest walk is walking alone, but it's also the walk that makes you the strongest. #Self #Motivation
+* “I'm sick of following my dreams, man. I'm just going to ask where they're going and hook up with ’em later." 🤣 — Mitch Hedberg #funny
+* Let us remember  - One book, one pen, one child, and one teacher can change the world. #HappyTeachersDay
+* There'll never be a perfect time to start, and you're never going to be fully ready. #Reality #Motivation #Success
+* When you fall in love with the process, the results will follow. #Process #Success #Motivation
+* There's always a silver lining, if you look for it. #Motivation #Success
+* The ability to observe without evaluating is the highest form of intelligence. #Intelligence
+* Life is about balance. Be kind, but don't let people abuse you. Trust, but don't be deceived. Be content, but never stop improving yourself. #Advice #Life #Balance
+* “Knowledge is knowing a tomato is a fruit; wisdom is not putting it in a fruit salad.” – 🤪 Miles Kington #funny
+* Keep it private, until you know it is permanent! #Life #Motivation #Advice
+* Miracles start to happen when you give as much energy to your dreams as you do to your fears. #Motivation #Success
+* The saddest thing about *betrayal* is that it never comes from your enemies! #Betryal #People #Relationship #Challenges
+* "Peace is your RICHEST TREASURE. Let nothing, let no one take it away from you." #Peace #Advise
+* Sometimes you have to leave, not for ego but for self-respect! #Self #Respect #Life
+* Everyone is trying to find out the right person instead of being one. #Motivation
+* Waves are inspiring not because they rise and fall. But because they never fail to rise again. So be positive. #Motivation #Positive #Optimism
+* If you don't have confidence, you'll always find a way not to win. #Motivation #Success #Excuses
+* Always walk through life as if you have something new to learn and you will. #Learning #Life #Motivation
+* Dont' cry for someone who killed your smile! #Advice #Self #Motivation #Peace
+* You can often change your circumstances by changing your attitude. #Attitude #Motivation
+* Don’t you know your imperfections is a blessing? – Kendrick Lamar #Imperfection #Life #Blessing
+* Be happy with whatever life gives you in the moment.😀 #Gratitude #Life #Optimism
+* Easy is to judge the mistakes of others. Difficult is to recognize our own mistakes. #Mistakes #Life
+* Your attitude can take you forward or your attitude can take you down. The choice is always yours! #Attitude #Motivation
+* Don’t waste the best version of yourself on someone that doesn’t deserve it. #SelfEsteem #Advice #People
+* Your value doesn't decrease based on someone's inability to see your worth. #Self #Motivation #People #Challenges
+* Quiet people are talkative around the right people. #Motivation #Quiet #Reality
+* Just because the past didn't turn out like you wanted it to, doesn't mean the future can't be better than you ever imagined. #Optimism #Motivation #Challenges
+* The older I get the more I appreciate being home doing absolutely nothing!😂 #Wise #Peace #Experience #Life
+* You are what you do, not what you say you'll do. #Motivation #Success #Determination
+* Notice the people who make an effort to stay in your life! #People #Realization #Self #Motivation
+* Keep winning in private, not everyone deserves to know what you are upto. #Motivation #Success #Determination
+* The guaranteed way to succeed is to always try just one more time. #Success #Motivation
+* We all have burdens in life, but the burdens aren't the problem. It's how we choose to carry them. #Life #Motivation
+* No man has a good enough memory to be a successful liar.🤣 - Abraham Lincoln #funny
+* Always try one more time, no matter how many times you have failed. Never give up. #Motivation #Success
+* The calmness is the human's superpower. The ability to not overreact or take things personally keeps your mind clear and your heart at peace! #Calmness #Peace
+* Not everything has to make sense. Let it go. Choose peace. #Motivation #Advice #Peace #Challenges
+* Life can be shaped in the desired way by changing your habits. #Success #Habits
+* The biggest obstacle to happiness is under valuing what you have and overvaluing what others have. #obstacle #Success #Motivation
+* A secret to happiness is letting every situation be what it is , instead of what you think it should be, and then making the best of it. #Happiness #Attitude
+* My fake plants died because I did not pretend to water them .🤣 - Mitch Hedberg #funny
+* It’s not what you’re going to do, but what you’re doing now that counts. #Motivation #Success #Now #Action
+* Listen with ears of tolerance. See through the eyes of compassion. Speak with the language of love. #Life #Motivation #Optimism
 
 ## yet to be used
 
-* Never apologize for the changes you made in order to heal. #Life #Self #Motivation
 * Never forget who was with you when you had nothing! #Gratitude #People #Life
-* Life is about balance. Be kind, but don't let people abuse you. Trust, but don't be deceived. Be content, but never stop improving yourself. #Advice #Life #Balance
-* Thought is a past tense of thinking! What we are thinking today decides our thoughts tomorrow! #Thoughts #Motivation #Today
 * Love doesn't need to be perfect, it needs to be true. #Love #Relationship #Motivation
-* The beauty of life is, while we can’t undo what is done, but we can see it, understand it, learn from it and change. #Life #Experience
-* The older I get the more I appreciate being home doing absolutely nothing!😂 #Wise #Peace #Experience #Life
 * Communicate and encourage open discussions with your loved ones, Even if the topic is unpleasant you should listen actively. Remember no one is perfect, everyone makes mistakes. It's better to talk and reconcile rather than being irritated within! #Relationship #Communication #Advice
 * We don’t truly appreciate what we have until it’s gone… We don’t really appreciate something until we have experienced some events; we don't really appreciate our parents until we ourselves have become parents. Be grateful for what you have now, and nothing should be taken for granted. #Appreciate #Gratitude #Life
-* *Micro* changes in life can bring a *Macro* transformation. #Change #Motivation #Successs
 * Let others criticize how much ever they want to. You be calm for your own wellness and peace! Any negative emotion that emerges from you causes the most damage to the source, As it may not even land on the desired target! #Success #Silence #Motivation
 * The less you respond negatively, the more peaceful your life becomes. #Motivation #Negativity #Peace
 * A Wiseman said, "Don't be afraid to start all over again". This time, you're not starting from the scratch, you're instead starting from an experience! #Advice #Experience #Motivation #Success
 * A person becomes much attractive not by his looks but by his kindness, love, respect, honesty and loyalty he shows. #Attraction #Motivation #Kindness #Life
-* Some people come in your life as blessings, some people in your life as lesson. #People #Relationship #Life
-* Easy is to judge the mistakes of others. Difficult is to recognize our own mistakes. #Mistakes #Life
 * Life is difficult, unpredictable, chaotic, and stressful, this is true, we can not control what life sends our way,  but we DO have 100% control over how we will respond. #Reaction #Life #Challenges #Motivation
-* In an attempt to gel with the world, do NOT lose your individuality. You were born with specific traits and strengths. Get inspired by others but always maintain your uniqueness! #Motivation #Uniqueness #Advice
 * More you expect, More you’ll be unsatisfied.  #Expectation #People
-* The saddest thing about *betrayal* is that it never comes from your enemies! #Betryal #People #Relationship #Challenges
 * If you focus on the hurt, you will continue to suffer. If you focus on the lesson, you will start to grow. #Advice #Pain #Success #Motivation
-* Take time to plan but don’t take too long to action. Success belongs to those who make a move. #Success #Action #Motivation
-* The calmness is the human's superpower. The ability to not overreact or take things personally keeps your mind clear and your heart at peace! #Calmness #Peace
 * A good husband makes a good wife. 🤣😂 #funny
-* In the end, it is important to know when to stop arguing with people, smile and walk away! #Life #Challenges #People
 * In the end, all I learned was how to be strong alone. #Strong #Moral #Life
 * When your happiness depends on what is happening outside of you, constantly you live as a slave to external situation. #Happiness
-* Don’t waste the best version of yourself on someone that doesn’t deserve it. #SelfEsteem #Advice #People
 * Sometimes it is better to remain silent and smile! :) #Silence #Smile #Advice
 * One Step Back Doesn't Mean You Are Defeated It Just Means That You Will Take The Same Step Forward Again But Wiser This Time. #Motivation #Optimism #Success
 * Opportunities are never lost, they are always taken by the people who are READY! #Success #Opportunity #Motivation
-* Just because the past didn't turn out like you wanted it to, doesn't mean the future can't be better than you ever imagined. #Optimism #Motivation #Challenges
-* Life can be shaped in the desired way by changing your habits. #Success #Habits
 * Through hard times your character is born! #Challenges #Motivation #Character
 * No one is to blame for your future situation but yourself. #success #selfrealization #advice
 * There are hidden blessings in every struggles. #Motivation #Challenges
-* Everyone is trying to find out the right person instead of being one. #Motivation
-* Always walk through life as if you have something new to learn and you will. #Learning #Life #Motivation
 * We are not given a good life or a bad life. We are given a life. It's up to us to make it good or bad. #Life #Experience
 * If our character shapes our destiny, Our habits shape our character. #character #destiny
-* A secret to happiness is letting every situation be what it is , instead of what you think it should be, and then making the best of it. #Happiness #Attitude
 * Listen without defending, Speak without offending. #advice #listen
 * Happiness comes when it is most unexpected! #Happiness
 * Successful people always have two things on their lips - Silence and Smile. Smile to solve the problems and the Silence to avoid the problems. #success #advice #smile #silence
@@ -1023,7 +1081,7 @@
 * Sometimes you have to forget whats gone, appreciate what still remains, and look forward to what's coming next. #Motivation #Optimism #Life
 * There is a difference between being liked and being valued. A lot of people like you, not many value you. Be Valued! #selfrealization #Importance #Advice
 * Change is: Hard at first; Messy in the middle; And gorgeous at the end! #Change #Motivation
-* A person is only limited by the thoughts that he chooses. #Success #Motivation
+* A person is only limited by the thoughts that he chooses. #Success #Motivation\
 * The greatest wealth is to live content with little. #Motivation #Life
 * When you stand up quickly from a seating position and feel dizzy it's known as 'Orthostatic Hypotension'. #facts
 * Sometimes the best revenge is to smile and move on. #Smile #Revenge #Peace
@@ -1177,7 +1235,6 @@
 * No act of kindness no matter how small, is ever wasted. Let's try to be more kind every day. #Kindness
 * Stop allowing people to take pieces of you to make themselves whole. #Realization #People #Challenges
 * Once I Care, I don't leave. Once I leave, I don't care. #Life #Realization
-* When you fall in love with the process, the results will follow. #Process #Success #Motivation
 * Wrong is wrong, even if everyone is doing it. Right is right, even if no one is doing it. #Right #Wrong #Motivation
 * Stop trying to calm the storm. Calm yourself, the storm will pass. #Challenges #Advice
 * A mistake can cost you a lot, but a lesson can save you millions! #Mistake #Learning #Life
@@ -1204,22 +1261,18 @@
 * The mind is like water. When it's turbulent, it's difficult to see. When it's calm, everything becomes clear. #Mind #Life #Motivation
 * Understand that you are not perfect and that is okay! #Perfect #Life #Reality #Motivation
 * Sometimes, life will kick you around, but sooner or later, you realize you're not just a survivor. You're a warrior, and you're stronger than anything life throws your way. #Life #Motivation #Success
-* Leaders who don't listen will eventually be surrounded by the people who have nothing to say. #Leadership #Motivation #People #Success
 * You cant' make the Right decision all the time, but you can learn from the Wrong ones everyday. #Motivation #Success
 * Happiness cannot be traveled to, owned, earned, worn, or consumed. Happiness is the spiritual experience of living every minute with love, grace, and gratitude. #Happiness #Life #Motivation
 * You must teach your heart to accept what cannot be changed! #Change #Life #Motivation
 * Use the pain of your past as fuel that will drive you straight to a better future! #Motivation #Challenges #Success #Lessons
-* Train yourself to stop waiting for the right time! #Motivation #Self #Success
-* The Person who knows" How To work" will always have a job. The Person Who Knows " Why To work" will always Be His Boss. :) #Smart #Motivation #Success
+* The Person who knows "How To work" will always have a job. The Person Who Knows "Why To work" will always Be His Boss. :) #Smart #Motivation #Success
 * Envy is the art of counting the other fellows blessings instead of one's own. - Harold Coffin. #Envy #Life
-* We all have burdens in life, but the burdens aren't the problem. It's how we choose to carry them. #Life #Motivation
 * Being a Good Person is Very Difficult. Its like being a Goal Keeper. No matter How many Goals you Saved, The people remember Only the Goals you Missed. #Life #Motivation #Reality
 * Everything is Temporary. Thoughts, emotion, people and scenery. Do not become attached, just flow with it. #Life #Reality #Motivation
 * Not treating them the way they treated you is the best revenge. #Revenge #People #Challenges #Motivation
 * To change your life, you need to change your priorities. #Life #Success #Motivation
 * Life starts when you stop waiting for someone to come and save you. #Life #Advice #Motivation
 * There are people in life whom you forget with time but, there are few people with whom you forget time. Never lose them. #Life #People #Challenges
-* Nothing binds you except your thoughts, Nothing limits you except your fear & Nothing controls you except your beliefs. EVERYTHING is within YOU...
 * Search for a beautiful heart. Not necessarily a beautiful face. Beautiful people are not always good. But good people are always beautiful! #Life #People #Motivation
 * The less you respond to rude, critical, argumentative people, the more peaceful your life becomes. #Motivation #Success
 * Mind is not a dustbin to keep anger hatred and jealousy. But it's a treasure box to keep love happiness and sweet memories. #Mind #Motivation
@@ -1228,7 +1281,6 @@
 * Just observer and play smart. You don't need to react to everything. #React #Life #Advice #Success
 * If they don't see the value of having you, don't try to convince them. #Life #People #Advice #Challenges
 * Give it up or give it a go - this is a choice that will change your life. Make the right one. #Life #Advice #Success #Motivation
-* Keep it private, until you know it is permanent! #Life #Motivation #Advice
 * Do not let what others did to you, affect what you do to others! #Life #Challenges #Motivation #Positivity
 * What other people think of you is not your weight to carry. Free yourself! #Self #Peace #Motivation
 * Challenges are what make life interesting and overcoming them is what makes life meaningful. #Challengers #Life #Motivation
@@ -1238,16 +1290,12 @@
 * People hate when you show them how it feels to be treated the way they treat you. #People #Reality #
 * Never apologize for the distance you needed in order to heal. #Self #Peace #Challenges #Motivation
 * A Winner is just a loser who tried one more time. #Motivation #Success
-* A seed grows with no sound but a tree falls with huge noise. Destruction has noise, but creation is quiet. This is the power of silence. Grow silently. #Silence #Success #Motivation
-* The hardest walk is walking alone, but it's also the walk that makes you the strongest. #Self #Motivation
 * Any lesson you refuse to learn, will repeat until you do. #Life #Lessons
 * In order to succeed, we must first believe that we can, When Things change inside you, Things change around you. #Change #Success #Motivation
 * The days you are most uncomfortable are the days you learn the most about yourself! #Challenges #Motivation #Self
 * "Success is to measured not so much by the position one has reached in life as by the obstacles which he has overcome while trying to succeed." #Success #Motivation
-* Better to wait, than forcing the things to happen. #Advice #Waiting
 * Stop expecting and start accepting. You will surely find peace. #Peace #Motivation
 * Try to be a rainbow in someone’s cloud. – Maya Angelou
-* Don’t you know your imperfections is a blessing? – Kendrick Lamar
 * Be so good they can’t ignore you. – Steve Martin
 * What we think, we become. – Buddha
 * Die with memories, not dreams. – Unknown
@@ -1257,46 +1305,61 @@
 * Sometimes you need to make choices that might break your heart but certainly heals your soul.
 * Worry is a conversation you have with yourself about things you CANNOT CHANGE.
 * The best lesson I ever learned in life came from the worst feeling I ever felt in life.
-* Notice the people who make an effort to stay in your life! #People #Realization #Self #Motivation
-* "A poor mind drowns in excuses. A rich mind swims in solutions." #Motivation #Success
 * Learn to leave the table if the respect is no longer being served! #Respect #Self #Motivation
 * Accept the fact that there are things in your life that won't go the way you want them to be. #Reality #Motivation #Acceptance
 * Listen without defending. Speak without offending!
 * Journey of life start with full bag of luck and an empty bag of experience. The goal is to fill the bag of experience before the bag of luck gets empty. #Life #Experience #Motivation
 * No matter what happened in your past, you can always start over. a bad past never means a bad present or bad future.
 * "Every second is a chance to turn your life around." #Motivation #Success
-* Never assume that loud is the strongest and quiet is the weakest; it's often the other way around. #Motivation #Life
-* You cannot change the people around you, but you can change the people you chose to be around. #Life #People #Motivation
 * If you cant see where you are going but only what you see is the next step. Keep taking the next step. Destination is not far. #Motivation #Success
 * "Never see what has been done. Only see what remains to be done". #Success #Motivation
-* "Peace is your RICHEST TREASURE. Let nothing, let no one take it away from you."
 * Change is never painful, only resistance to the change has ever been. #Change #Challenges #Motivation
 * Unless you are willing to challenge yourself beyond your comfort zones, you cannot become what you want to become. #Motivation #Success #Advice
 * If we have the proper attitude, we can resolve the specifics of any problem without much confusion. The real essence is to have the right attitude! #Attitude #Motivation #Challenges
 * In three words I can sum up everything I’ve learned about life: it goes on. #Life #Experience #Motivation
 * You are not defeated when you lose, you are defeated when you give up and accept the defeat. #Motivation #Failure #Success
-* Sometimes you have to leave, not for ego but for self-respect! #Self #Respect #Life
 * There will always be people in your life who treat you wrong. Be sure to thank them for making you strong. #People #Challenges #Motivation
 * A clear rejection is always better than a fake promise. #Life #Optimism
-* "Living in the favorable and unfavorable situation is called PART OF LIFE, But smiling in all those situations is called ART OF LIFE". #Life #Reality #Motivaiton
+* "Living in the favorable and unfavorable situation is called PART OF LIFE, But smiling in all those situations is called ART OF LIFE". #Life #Reality #Motivation
 * I am thankful to all those difficult people in life who had shown me exactly who I don't want to be! #People #Gratitude #Challenge
-* Your value doesn't decrease based on someone's inability to see your worth. #Self #Motivation #People #Challenges
-* Forget all the reasons it won’t work and believe the one reason that it will. #Motivation #Success
-* Innocent people are not stupid, they just think that everyone has a good heart!
-* "Don't try to understand everything, because sometimes it is not meant to be understood, but to be accepted."
-* You can often change your circumstances by changing your attitude.
 * Every morning you have two choices. Continue to sleep with your dreams, or wake up and chase them. #Motivation #Determination #Success
-* It's not how we make mistakes, but how we correct them that defines us. #Motivation #Mistakes
-* "Don't try to understand everything, because sometimes it is not meant to be understood, but to be accepted."
 * "Those who are at war with others are not at peace with themselves" #Peace #Motivation #People #Challenges
-* Being wanted feeds the ego. Being valued feeds the soul. #Value #Ego
 * Sometimes you have to stay silent because no words can explain what is going on in your mind and your heart. #Advice #Silence
-* Dont' cry for someone who killed your smile! #Advice #Self #Motivation #Peace
-* People respect us for two reasons - Either we have the power OR our behavior is helpful. First one is temporary but the second one is permanent. #Motivation #People #Life
-* Dont' use your energy to worry, instead use it to believe! #Motivation #Optimism #Success
-* Decide what you want in life. Make a plan and work on that plan EVERY DAY!!!! 💪🏾 Don’t give up 🙏🏽 #Motivation #Success
 * “If you want to be sure that you never forget your wife’s birthday, just try forgetting it once.” 🤣 — Aldo Cammarota #funny
 * "Happiness is a gift and the trick is not to expect it, but to delight in it when it comes." #Happiness #Motivation
 * A gem cannot be polished without friction, nor a man perfected without trials.”  #Motivation #challenges #Success
 * Never conclude a person by his present status because time has the great power to change a useless coal into a valuable diamond.  #Motivation #Success
-* When each day is the same as the next, it's because people fail to recognise the good things that happen in their lives every day that the sun rises. #Motivation #Success
+* When each day is the same as the next, it's because people fail to recognize the good things that happen in their lives every day that the sun rises. #Motivation #Success
+* Respect is earned. Honesty is appreciated. Trust is gained. Loyalty is returned. #Life #Advice #Motivation
+* 99% of the failures come from people who have the habit of making excuses. #Excuses #Success
+* Every ending gives chance for another beginning, sometimes we just don't know at the time. #Motivation #Success
+* You are not what happens to you. You are what you choose to become. #Motivation #Success #Optimism
+* You are responsible for the problems you encounter, regardless of who caused them. Instead of worrying about who caused them, think about how you can get yourself out of the situation. #Motivation #Success
+* Silence is the strong fence around the wisdom. If your foot slips, you can regain your balance but if your mouth slips, you can never rebuild your image again. #Silence #Motivation #Success
+* You can’t go back and change the beginning, but you can start where you are and change the ending. #Motivation #Optimism #Success
+* Be like a tree. Stay grounded. connect with your roots. Turn over a new leaf. Bend before you break. Enjoy your unique natural beauty. Keep growing. #Motivation #Success #Life
+* A man's character is not judged after he celebrates a victory, but by what he does when his back is against the wall. #Character #Motivation
+* Opportunities are never lost, they are always taken by the people who are ready. #Motivation #Success #Opportunity
+* Don't let your life be defined by possessions.
+* Every single person that walks into your life, whether they stay or they leave, they teach you a lesson. A lesson that will help you grow and become a better human being.
+* No One is Capable of Making you Upset without your Consent.
+* Accept what is, let go of what was, have faith in what will be. #Optimism #Motivation #Life
+* You succeed by doing, not by thinking about doing. #Motivation #Success
+* Never put a limit on anything. The more you believe, the more you achieve. #Motivation #Success #Belief
+* A best translator is one who translates someone's silence to a smile. #Motivation #Life #Smile
+* Don't waste your time stressing about things you can't change. #Life #People #Challenge #Motivation
+* Be patient. Time brings opportunities one after another to those who work hard. #Success #Motivation
+* If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success. #Success #Motivation
+* You can win only when your mind is stronger than your emotions. #Success #Motivation #Determination
+* Just because something doesn't do what you planned it to do doesn't mean it's useless. #Reality #Motivation
+* You don't always need a plan. Sometimes you just need to breathe, trust, let go, and see what happens. #Breather #Optimism #Reality
+* Sometimes you have to accept the fact that certain things will never go back to how they used to be. #Reality #Acceptance
+* Appreciating the good in others is a small gesture that needs a huge courage. Only Confident people can do that, not the jealous ones. #Motivation #Appreciation
+* Life is all about taking risks. If you never take risks, then you'll never know what you're capable of. #Motivation #Life
+* Life is what happens when you're busy making other plans.🤣 — John Lennon. #funny
+* One kind word can change someone's entire day. Be Human, Be Kind. #Kindness #People #Motivation
+* You never know how strong you are until being strong is the only choice you have. #Strength #Motivation
+* Life will always try to make things difficult for you, but every time you overcome obstacles, you come out stronger. #Life #Motivation #Challenges
+* If you think you can do it, you are right. If you think you can't do it, you are right there as well. #Life #Potential #Reality #Motivation
+* Take the time to be grateful for where you are right now. Lots of people wish they could be in your position. #Life #Gratitude #Motivation
+* Pain doesn't go away, you just learn how to deal with it.
