@@ -1,4 +1,4 @@
-  # Good Morning Messages
+# Good Morning Messages
 
 ## Used
  * Sometimes you just need to forget what is gone, appreciate what still remains, and look forward to what’s coming next.
@@ -49,8 +49,8 @@
  * Always Be Strong Enough To Let Go And Be Smart Enough To Wait For What You Deserve !!!
  * Transparency in your attitude will win trust from everyone.
  * Childhood Pictures Will Always Be More Beautiful Than Selfies & Pouts. It's Because You Never Aimed For Perfection AND most importantly, You Were Living The Moment!
- * Planning is bringing the future into the present so that you can do something about it now.
- * Do what is right and NOT what is easy! 🌴
+ * Planning is bringing the future into the present so that you can do something about it now. #Planning #Success #Motivation
+ * Do what is right and NOT what is easy! #Motivation #Values
  * A Mother understands what a child does *not* say! Happy Mother's Day!
  * Life doesn’t get easier, You just get stronger.
  * Remember, for everything you have lost, you have gained something else. Without the dark, you would never see the stars.
@@ -1450,6 +1450,46 @@ Happiest Man in the World". Be Happy no matter what! 😇  #Life #Motivation #Ha
 * Challenge yourself to control how you respond to what's happening. That's where your power is. #Motivation #Challenge
 * Life Will show you different shades at different times. Each shade will give you different experiences, make sure you learn from all of them. #Life #Motivation #Reality
 * At times, Life will be better when you don't care about what other people think. #Motivation #Advice
+* “If you really believe in what you're doing, work hard, take nothing personally and if something blocks one route, find another. Never give up.” - Laurie Notaro. #Motivation #Success #Determination
+* When you don't react, you win. Stay in control, do not give them what they are looking for. #Motivation #Reaction #Advice #Challenges #Relationship
+* Some goodbyes are good for your mental health. #Motivation #Peace #Life #Advice #Relationship
+* “One of the greatest discoveries a person makes is to find they can do what they were afraid they couldn't do.” - Henry Ford #Motivation #Courage #Success
+* Listen more closely to what people *do* than what they _say_! #Motivation #People #Relationship
+* Patient: "Doctor, I get heartburn every time I eat birthday cake." Doctor: "Next time, take off the candles." 🤣 #funny #Joke #DoctorJokes
+* Your mind can be your best friend if it is under your reins and your worst enemy if you are under its reins! #Motivation #Self #Mind
+* Don't spend more than what you make. #Advice #Life
+* Keep yourself simple and approachable. Remain real and honest. The whole world will love you. #Advice #Life
+* Be thankful for the wrong relationships.They teach you, change you, strengthen you and prepare you for the right one. #Relationship #Motivation
+* Everything is valuable only in 2 situations by. First, Before getting it. Second, After losing it. In between we don't realise the value of anything. #Motivation #Advice #Life #Reality
+* The easiest thing to be in the world is you. The most difficult thing to be is what other people want you to be. Don't let them put you in that position. #Motivation #Self #Challenges
+* Why do programmers prefer using dark mode? Because the light attracts too many bugs! 🤣 #funny #Joke
+* If you change the way you look at things, the things you look at change. #Change #Motivation #Perception #Advice
+* You reap what you sow, No matter how long it takes.  Everything you do gets returned to you!! #Life #Advice #Motivation #Karma
+* “Enjoy the little things, for one day you may look back and realize they were the big ones.” - Robert Breault #Life #Motivation #Advice
+* Never change your Originality for the Sake of others. Because no one can Play your role better than you. So be Yourself. You are the Best! #Self #Motivation #Advice
+* Don't start your day with the broken pieces of yesterday. Every day is a fresh start. Each day is a new beginning. Every morning we wake up on the first day of our new life. #Motivation #Daily
+* Inspiration is a gift. Don't reject it. #Inspiration
+* Why can't you trust an atom? Because they make up everything! 🤣 #funny
+* We perform our best when we are having fun and feeling good about ourselves.” - Matt Mochary #Motivation
+* It is true that every effort is not converted into SUCCESS. But it is equally true that success does not come without EFFORT! #Success #Motivation
+* Your future holds endless possibilities, no matter what happened in the past. Stay hopeful and keep moving forward. #Motivation #future
+* Experience tells you what to do, Confidence allows you to do it. #Experience #Motivation #Confidence
+* Being Positive doesn't mean that you don't have any negative thoughts. It just means that you don't let those thoughts control you. #positivity #Life #Motivation
+* Client: “How much do you charge for legal advice?”. Lawyer: “$500 for three questions.”. Client: “That’s quite expensive, isn’t it?”. Lawyer: “Yes, it is. What’s your third question?” 🤣 #funny #lawyerjokes
+* You may not have control over what happens every day. But you can decide which mindset you bring to a new day. #Motivation #Optimism #Positivity
+* To smile without a condition, To talk without an intention, To give without a reason, and to care without a an expectation is the beauty of any good relation. #Motivation #Relationship
+* Stay where your Presence is valued and your Absence Is missed! #Motivation #Self #Advice #Relationship
+* Forgive everyone no matter what, But always remember the lessons you learned with them. #Motivation #Peace #Forgiveness #Relationship
+* Your success is found in your daily routine! #Success #Motivation #Habit
+* Why did the scarecrow win an award? Because he was outstanding in his field!🤣 #funny
+* The question is not how much we have or how much we don’t have. The question is, whatever we do have, what are we using it for. #Motivation #Life
+* Peaceful mind leads to great results. #Motivation #Peace #Success #Advice
+* Silence is the best answer to someone who doesn’t value your words. #Silence #Self #Values
+* Every struggle in your life has shaped you into the person you are today. Be thankful for the hard times, they can only make you stronger. #Life #Gratitude
+* Change may not always bring growth, but there is no growth without change.” - Roy T. Benne #Growth #Change #Motivation
+* “Nothing is so fatiguing as the eternal hanging on of an uncompleted task.” - William James #Motivation #Determination
+* Why did the math book look sad? Because it had too many problems. 🤣 #Funny  
+* “Let go of the thoughts that don't make you strong.” #Motivation #Strength #Self #Advice
 
 ## yet to be used
 * "Friendship is born at that moment when one person says to another, 'What! You too? I thought I was the only one.'" - C.S. Lewis
@@ -1629,7 +1669,6 @@ Happiest Man in the World". Be Happy no matter what! 😇  #Life #Motivation #Ha
 * Visualizing a positive outcome and repeating this visualization everyday, several times a day, will prompt your subconscious mind to seek ways to make your mental image a reality. #Success #Motivation #Optimism
 * One day you will tell you story of how you overcame what you went through, and that will be someone else's survival guide. - Brene Brown. #Motivation #Challenges
 * Life is easier when you take it one day at a time, and remember that nothing is permanent. #Life #Optimism
-* Being Positive doesn't mean that you don't have any negative thoughts. It just means that you don't let those thoughts control you. #positivity #Life #Motivation
 * Self-Care often means doing what you don't feel like doing in the present moment to benefit future you (it's not all about bubble baths and face masks). #SelCare #Advice
 * Your boundaries will scare some people away. It's okay. Let them go! #SelfCare #Advice
 * Don't neglect yourself taking care of someone else. You don't owe anyone your time, a quick text back, or emotional support when you need to be giving it to yourself first. #SelfCare #Advice
@@ -2110,7 +2149,6 @@ Happiest Man in the World". Be Happy no matter what! 😇  #Life #Motivation #Ha
 * All life is so transient that it can disappear in one moment like a bubble. All that you see in this world is transient and not true. #Motivation #Life #Reality
 * Let's always offer support and empathy to those around us, as we may not always know the battles they face. #Empathy #Advice #People
 * Never give up. Have hope. Expect only the best from life and take action to get it. #Motivation #Success #Advice #Hope
-* You may not have control over what happens every day. But you can decide which mindset you bring to a new day. #Motivation #Optimism #Positivity
 * Hard work is the chisel that sculpts your dreams into reality. The sweat you invest today paints the masterpiece of your future. Keep working hard, and watch your ambitions come to life. #Hardwork #Motivation #Success #Advice
 * Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for. #Motivation #Life #Advice #Satisfaction
 * Strength does not come from winning. Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength. #Motivation #Strength
@@ -2250,7 +2288,6 @@ Happiest Man in the World". Be Happy no matter what! 😇  #Life #Motivation #Ha
 * Don't waste your time with explanations: people only hear what they want to hear. #Motivation #People #Challenges #Advice
 * Remember, most of your stress comes from the way you Respond, not the way Life is. Adjust your attitude and all that extra stress is gone. #Stress #Advice #Motivation #Peace #Life
 * Do it today and be thankful tomorrow. #Advice #Motivation #Today #Success
-* Silence is the best answer to someone who doesn’t value your words. #Silence #Self #Values
 * Never apologize for having high standards. People who really want to be in your life will rise up to meet them. #Motivation #Self #Advice
 * Karma Says:- Silence is the best answer for all questions, Smiling is the best reaction in every situation. #Silence #Karma #Smile #Advice #Life
 * Believe in yourself, and the rest will fall into place. Have faith in your own abilities, work hard, and there is nothing you cannot accomplish. #Belief #Motivation #Self #Success
@@ -2357,8 +2394,7 @@ Happiest Man in the World". Be Happy no matter what! 😇  #Life #Motivation #Ha
 * Don't worry about what people say behind your back, they are the people who are finding faults in your life instead of fixing the faults in their own life. #Life #Motivation
 * Be proud. You did well today! #Self #Motivation
 * Do not try to experiment with God but try to experience. #God #Motivation
-* Success is Not Final, Failure is Not Fatal: it is
-the Courage to Continue that Counts. Don't Count the Days, Make the Days Count. #Success #Failure #Motivation
+* Success is Not Final, Failure is Not Fatal: it is the Courage to Continue that Counts. Don't Count the Days, Make the Days Count. #Success #Failure #Motivation
 * It doesn't matter how dirty others play; karma has a big bite. Always move with a genuine heart and pure intentions. #Karma #Fate #Motivation
 * Happiness is greater than _money_! :) #Life #Motivation #Happiness
 * After every breakdown theres always a breakthrough. After every burden there is always a blessing. Hang in there, better days are coming! #Motivation #Challenge
@@ -2400,7 +2436,6 @@ the Courage to Continue that Counts. Don't Count the Days, Make the Days Count. 
 * Patience precedes wisdom; thoughtful actions pave the path to fulfillment and enlightenment.
 * Take pride in your journey, even it has unseen victories
 * BE GOOD TO EVERYBODY BECAUSE LIFE CAN TAKE A TURN VERY FAST AND YOU WILL NEVER KNOW WHOSE HELP YOU WILL NEED.
-* Your mind can be your best friend if it is under your reins and your worst enemy if you are under its reins!
 * Life is a journey with problems to solve, lessons to learn but most of all, experiences to enjoy.
 * Just focus on doing your best and don't worry about the rest. Things will shake out the way they need to.
 * Don’t overlook; Don’t disregard; Don’t excuse…
@@ -2420,7 +2455,6 @@ the Courage to Continue that Counts. Don't Count the Days, Make the Days Count. 
 * Remain optimistic. Persevere. Be courageous. Stay driven. Keep your focus sharp. #Motivation #Optimism #Success
 * Failure is just a halt, don't make it your destination.
 * Anything you lose by speaking your truth isn't a loss. It's an alignment.
-* Listen more closely to what people *do* than what they _say_! #Motivation #People #Relationship
 * Always create success in silence! #Success #Motivation #Advice
 * Allow yourself the grace to grow at your own pace, unfurling into the fullness of your potential. #Motivation #Life
 * The expert in anything was once a beginner. #Motivation #Success #Advice
@@ -2435,7 +2469,6 @@ the Courage to Continue that Counts. Don't Count the Days, Make the Days Count. 
 * Efforts are better than words. #Motivation #Advice
 * Behind every overnight success are years of unsuccessful attempts. #Motivation #success
 * Trust is like paper; once it's crumpled, it can never be perfect again. #Trust #Motivation #relationship #Advice #Life
-* Experience tells you what to do, Confidence allows you to do it. #Experience #Motivation #Confidence
 * Time just shows us who and what matters. #Time #Reality #Life
 * Life doesn't give you second chances. It gives you a new 24 hours. What you do with it is up to you. Make it count. #Life #Advice #Motivation #Optimism
 * Sometimes you have to go through the worst to get the best. Be patient. Your day will come. #Motivation #Optimism  #Advice #Life
@@ -2477,7 +2510,6 @@ the Courage to Continue that Counts. Don't Count the Days, Make the Days Count. 
 * Never settle. Challenge your mind, evolve your views. #Motivation #Optimism
 * Always look at what you have left. Never look at what you have lost. #Optimism #Motivation
 * It's not what we do once in a while that shapes our lives, but what we do consistently. #Motivation #Consistent
-* When you don't react, you win. Stay in control, do not give them what they are looking for. #Motivation #Reaction #Advice #Challenges #Relationship
 * No matter how many times teeth bite the tongue . They still stay and work together . That is the spirit of forgiveness and relationship. #Motivation #Relationship
 * When you truly care, you won't give up. You won't abandon. You won't stop. You'll keep going, no matter what. #Motivation #SUCCESS #Determination #Focus
 * Take failures as stepping stones. A little brave step in right direction can change your life for better. #Advice #Life #Motivation
@@ -2493,13 +2525,11 @@ the Courage to Continue that Counts. Don't Count the Days, Make the Days Count. 
 * Celebrate your hidden victories, they're the silent triumphs shaping the essence of who you are.
 * It is pointless trying to know where the way leads. Think only about your first step, the rest will come.
 * Excuses don't get results. Results come from actions, no matter how small or imperfect. Take 1 step, then another, then another. No excuses. #Motivation #Success #Action #Advice
-* In real life, there is no such thing as second place.
-Either you are a winner, or you’re not !!!
+* In real life, there is no such thing as second place. Either you are a winner, or you’re not !!!
 * Dream BIG dreams! Only big dreams have the power to move your mind and spirit.
 * Time is precious. Make sure you spend it with right people.
-* Keep yourself simple and approachable. Remain real and honest. The whole world will love you.
 * The wounds of the past will shape the wisdom of tomorrow !!
-* Real responsibility means to live and speak in such a way as to strengthen Peopls’s faith and not to disturb it. #Advice #Motivation #Faith
+* Real responsibility means to live and speak in such a way as to strengthen People’s faith and not to disturb it. #Advice #Motivation #Faith
 * Nothing is permanent. Don't stress yourself too much, because no matter how bad the situation is, it will change. #Motivation #Challenges
 * Miracles don't come to those who wait. Miracles come to those who create opportunities for them to occur. #Motivation #Success #Miracles
 * Refuse what rejects you; invest in paths that reciprocate your worth and effort! #Motivation #Success #Advice
@@ -2514,7 +2544,6 @@ Either you are a winner, or you’re not !!!
 * Problems are part of life, facing them is an art of life! #Life #Motivation #Problems
 * Drop anything that makes you feel - ⁠Small, ⁠Uninspired, ⁠Unhappy. Life's too short for that. #Life #Advice #Motivation #Self
 * If you can see the positive sides of everything, you'll be able to live a much richer life than others. #Motivation #Positivity #Optimism
-* Peaceful mind leads to great results. #Motivation #Peace #Success #Advice
 * Life isn’t a straight path. It's a wild, unpredictable rollercoaster. The key is to enjoy the ride, even when it's scary.
 * Work hard on yourself so that you may be a beacon of light among the darkness, influencing and helping to guide others on their journey. #Motivation #Success
 * Challenges are what make life interesting and overcoming them is what makes life meaningful. #Challenges #Motivation #Success
@@ -2523,21 +2552,16 @@ Either you are a winner, or you’re not !!!
 * "Belief makes the way for confidence, and it is confidence which paves the way for clarity of vision, and clarity of vision experiences the success." #Belief #Success #Motivation
 * Quietly be successful. Loudly move alone. Silently plan your empire. #Motivation #Success #Advice
 * The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy. #Motivation #Challenges
-* Our goal is not to be better than anyone else,
-but to be better than we used to be. #Motivation #Goal #Success #Self
+* Our goal is not to be better than anyone else, but to be better than we used to be. #Motivation #Goal #Success #Self
 * Happiness isn't a destination. It's a mindset you carry with you on the journey. Find joy in the process, not just the outcome. #Happiness #Motivation
 * Our greatest glory is not in never falling, but in rising every time we fall.
 * When the going gets tough, the tough gets going. #Motivation #Challenges
 * Keep moving forward. Your journey is unique, and those who matter will eventually see your strength and resilience.
 * In LIFE,, what you want will never come easy. So one should always keep trying. #Motivation #Success
 * Greatness never rushes. Patience is the weapon of the wise. Sip slowly on your dreams, allowing their flavors to fully mature. The best wines take time. #Patience #Motivation
-* Everything is valuable only in 2 situations by. First, Before getting it. Second, After losing it. In between we don't realise the value of anything. #Motivation #Advice #Life #Reality
 * Trust your instincts. Recognize your worth and seek the respect, love, and opportunities you deserve. Your intuition is a powerful guide to a more fulfilling life. #Trust #Motivation
-* You reap what you sow, No matter how long it takes.  Everything you do gets returned to you!! #Life #Advice #Motivation #Karma
-* Forgive everyone no matter what, But always remember the lessons you learned with them. #Motivation #Peace #Forgiveness #Relationship
 * More gratitude, less complaints. More empathy, less indifference. More kindness, less criticism. More understanding, less anger. Shift your focus, and you'll shift your world. #Gratitude #Advice #Motivation #Life
 * Be you and let the world adjust! #Life #Self
-* Every struggle in your life has shaped you into the person you are today. Be thankful for the hard times, they can only make you stronger. #Life #Gratitude
 * Your time is your most valuable asset. Don't waste it where you're not valued. Move where you're celebrated. It's a game changer. #Time #Motivation #Success #Advice
 * Life has a simple  formula - Look back and  THANK GOD. Look ahead and TRUST GOD. #God #Life #Motivation
 * Every struggle is a chance to grow stronger and fight back with renewed strength. #Challenges #Motivation
@@ -2546,5 +2570,82 @@ but to be better than we used to be. #Motivation #Goal #Success #Self
 * Enjoy the time that you have because it is not going to come back. Enjoy life today, Yesterday is gone, and tomorrow may never come. #Motivation #Life #Advice
 * Life is a series of moments. Embrace them fully, because there are no rewinds. Make your story one worth remembering.
 * Every man carries his own secret sorrows, often hidden behind a brave smile.
-* Trust yourself. You've survived a lot, and you 'll survive whatever is coming! #Motivation #Hope #Positive #Optimism #Life
+* Trust yourself. You've survived a lot, and you'll survive whatever is coming! #Motivation #Hope #Positive #Optimism #Life
 * Life begins at the end of your comfort zone. #Life #Challenges #Motivation #Success
+* Every setback is a setup for a comeback; rise stronger each time you fall. #Motivation
+* You hold untapped courage, hidden strength, and unspoken wisdom within you. Trust in your capabilities; you are more powerful than you can imagine. #Motivation #strength
+* Even the smallest act of kindness can make a big difference. Help with whatever little you can do to others. #Kindness #Motivation
+* Compliment their Style, ⁠Energy, Ideas, ⁠Work ethic, ⁠Kindness. It costs you nothing but means everything to them. #Motivation #Kindness
+* Two things define you: Your patience when you have nothing and your attitude when you have everything. #Motivation #Patience
+* Good things come to those who believe, better things come to those who are patient, and the best things come to those who don't give up. #Patience #Motivation
+* The only way to change the Future is by changing the Present. Make that change in your life Today. #Motivation #Today #Life
+* In the blink of an eye everything can change. So make the most with those who mean the most. #Motivation #Reality #Advice #Life
+* Make a mind which never minds. Make a heart which never hurts. Make a touch which never pains & Make a relation which never ends. #Motivation #Advice #Life
+* Strength isn't always loud. Sometimes it's the quiet resolve, the calm demeanor, and the kind actions that speak the loudest. #Motivation #Strength #Calm
+* Cherish those moments that made you smile, they are the gems you'll treasure forever. #Motivation
+* Focus on improving, not proving.💪👎 #Focus #Motivation #Self #Positivity #Success
+* Start every day with a new hope, leave bad memories behind, and have faith for a better tomorrow. #Motivation #Daily #Advice
+* Work on yourself to choose not to allow another person or event to control your emotions. Feel the difference. #Motivation #Self #Advice
+* Sometimes you need to stay and fight for what you believe in. Other times, you need to walk away and create a new beginning. Trust your instincts and know when it's time to stay and when it's time to go. #Motivation #Fight #Advice
+* The more you believe that brighter days are ahead of you, the faster they will become your Reality. #Motivation #Positivity #Success
+* Do it today and be Thankful tomorrow! #Motivation #Today #Success #Advice
+* We don't know what tomorrow will bring so don't stay mad for too long. Learn to forgive and love with all your heart. Now is all that you have so own it. #Motivation #Forgive
+* Destiny does not always have to be a matter of chance.You can make it a matter of your choice. #Destiny #Motivation
+* The only time that you should ever look back is to see how far you have come. #Motivation #Success
+* Try not to become a man of success, but rather become a man of value. #Advice #Motivation #Values
+* Create the life you want on your own terms!
+* Hope is such a small word, but it is filled with amazing potential.
+* Time management is a crucial skill to learn, but energy management is ultimately much more important.
+* Life is trying things to see if they work. Don't complain just enjoy your pain!
+* “The struggle you're in today is developing the strength you need for tomorrow.” - Unknown #Challenges #Motivation #Optimism
+* Be the change that you wish to see in the world! #Motivation #Advice
+* Life and time are the best teachers. Life teaches us the use of time and time teaches us the value of life. #Time #Motivation #Advice
+* Your environment shapes you, but your actions define you. Take charge of your life and mould it into what you desire. #Actions #Motivation #Success
+* Life isn't easy but every day you get a chance to make a difference. Be thankful for what you already have and work hard for the things you want because every breath you take is a blessing. #Life #Advice #Gratitude
+* You can forgive some people without welcoming them back into your life. Apologies accepted, Access Denied! #Motivation #Challenges #Relationship #Forgiveness #Optimism
+* Don't expect only happiness in your life. There are going to be dark times, but remember that stars need darkness in order to shine. #Relationship #Challenges #Motivation #Optimism
+* Better days are ahead, keep pushing forward. In every storm, there is a rainbow waiting for you. When life knocks you down, help yourself stand back up. Challenges make you better even sweeter. Better days are the result of hard work and determination. Make better days happen. #Motivation #Advice #Life #Optimism
+* Learn to be okay with people who don't know your side of the story. You don't need to prove anything to anyone. #Motivation #Challenges #Advice
+* If you truly want to change your life, you first must be willing to change your mind. #Motivation #Success #Determination #Mind #Advice
+* IF you CANT be CORRECTED without being OFFENDED you will NEVER GROW in life. #Motivation #Change #Growth
+* Bad days are also part of a very good life. #Motivation #Optimism #Positivity #challenges
+* Prioritize what brings you joy and fulfilment. Life is precious, so invest your time in what truly matters. #Priority #Life #Motivation
+* It is not the years in your life that count, its the life in your years. #Life #Motivation #Advice
+* You'll end up really disappointed if you think people will do for you as you do for them. Not everyone has the same heart as you. #Motivation #Relationship #Challenges
+* When you know what’s most important to you, making a decision is quite simple. #Motivation #Decision #Life #Self
+* If you have the spirit of understanding everything in a Positive way, you will enjoy each & every moment of Life, Whether it is a Pressure or Pleasure. #Motivation #Optimism
+* “You were not born a winner, and you were not born a loser. You are what you make yourself to be.” - Lou Holtz #Motivation #Success
+* Keep faith in your journey and persist through challenges. Eventually, you'll reach the place you've always wanted. #Faith #Motivation #Success
+* One day you will thank yourself for never giving up. #perseverance #Success #Motivation
+* Great things happen to those who don't stop believing, trying, learning, and being grateful. #Motivation #Success
+* Believe in yourself, work hard, and don't let anyone tell you what you can or can't do. #Belief #Success #Motivation #Self #Advice
+* Sometimes we just have to accept what's here today by letting go of what was and having faith in what's to be. #Reality #Peace #Motivation
+* Self-improvement is a personal journey; change for yourself, grow for your own peace, and thrive in your authenticity. #Self #Motivation
+* It's very easy to find a New one. But it's hard to find a True one. #Motivation #Advice #Relationship
+* Being happy starts with you, having inner peace starts with you, being loved starts with you. All starts with you. #Motivation #Self #You #Advice #Happiness
+* Allow yourself to be a beginner. No one starts off being excellent. #Motivation #Beginner
+* Maturity is When you know other person is lying, but you just smile and let it go. #Maturity #Motivation #Relationship
+* Stay positive and keep believing. Better things are ahead! #Motivation #Positive #Optimism
+* Time does not change the people, it instead reveals the real face of them! #Time #Relationship #Reality #Life
+* If you're searching for that one person who will change your life, take a look at the mirror. #Motivation #Self #Improvement #Success #Advice
+* Be strong, be fearless, be beautiful, and believe that anything is possible when courage guides your heart. #Motivation #courage #Life
+* Always find a reason to laugh. It may not add years to your life, but it will surely add life to your years. #Laughter #Motivation
+* With determination and focus, you have the power to achieve anything you set your mind to. Believe in yourself and your abilities. #Focus #Success #Motivation
+* Sometimes the smallest step in the right direction ends up being the biggest step of your life. Tip toe if you must, but take the step. #Motivation #Success
+* Keep that positive mindset and enjoy the life we are given. #Positivity #Motivation #Life
+* Don't take things so personal. What people say about you is a reflection of them, not you.  #Motivation #Self
+* Small steps lead to big changes! #Motivation #Success
+* The happiness of your life depends upon the quality of your thoughts. #Happiness #Life
+* Trust in the process of growth. Trust in your ability to adapt. Trust in the person you're becoming. Embrace the journey, not just the destination! #Trust #Motivation
+* Courage is the first step towards achieving your dreams. #Courage #Motivation #Dreams
+* Not everyone will appreciate what you do for them. You have to figure out who's worth your kindness and who's just taking advantage. #Motivation #Relationship #Reality #Self #Advice
+* When your dreams start waking you up from sleep and not your alarm, then understand that you are going in the right direction.
+* HAPPINESS IS enjoying the little things in life.
+* “Change is the essence of life; be willing to surrender what you are for what you could become.” - Reinhold Niebuhr #Motivation #Change
+* Stop waiting for external validation. Be proud of your own growth, even if it's small. Celebrate your progress daily. You deserve it. #Motivation #Self
+* Every one of us is losing something precious to us. Lost opportunities, lost possibilities, feelings we can never get back again. That's part of what it means to be alive. #Motivation
+* “Ask what makes you come alive and go do it. Because what the world needs is people who have come alive.” - Howard Thurman
+* Great things often come when you least expect them. Trust the process and stay patient; your time is coming. #Motivation
+* It's during the worst storms of your life that you will get to see the true colors of the people who say they care about you. #People #Relationship #Challenges
+* Every phase in our life is bound to teach us something valuable.  But it depends on us whether we analyse the lessons or just turn the pages. #Motivation #Life
+* Until you spread your wings, you will have no idea how far you can fly. Life is not about finding yourself, life is about creating yourself! #Life #motivation #Self
